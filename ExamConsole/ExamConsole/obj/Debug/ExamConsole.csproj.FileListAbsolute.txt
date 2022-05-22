@@ -1,0 +1,8 @@
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\bin\Debug\ExamConsole.exe.config
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\bin\Debug\ExamConsole.exe
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\bin\Debug\ExamConsole.pdb
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\obj\Debug\ExamConsole.csproj.AssemblyReference.cache
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\obj\Debug\ExamConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\obj\Debug\ExamConsole.csproj.CoreCompileInputs.cache
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\obj\Debug\ExamConsole.exe
+C:\Users\mrext\source\repos\ExamConsole\ExamConsole\obj\Debug\ExamConsole.pdb
